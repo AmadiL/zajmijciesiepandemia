@@ -3,6 +3,8 @@ title: ""
 disableTitleSeparator: true
 ---
 
+![Logo](/img/logo.jpg)
+
 Codziennie od 23.10, w godzinach 10-20 stoimy pod biurem poselskim PIS-u w Gdańsku z naszym transparentem i postulatami.
 
 ✌🏻 Zapraszamy wszystkich do stania razem z nami!

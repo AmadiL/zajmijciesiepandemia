@@ -79,15 +79,15 @@ paginate = 5
     # You can set a single value below (and it will cease to be a dropdown),
     # BUT KEEP IT AS AN ARRAY
     # It can also be disabled entirely (and it will turn into a text field)
-    subject = [ 'Just saying "hi"', "I know what you did last winter", "... Is that a sloth?", "お前はもう死んでいる。" ]
+    subject = [ 'Protest "Zajmijcie się pandemią!"' ]
 
     # Text placeholders. As usual, comment the lines if you don't want use them
     # The "subject" below will only be used if the "subject" above doesn't exist (ie.: commented/deleted)
     [params.contact.placeholder]
-      name    = "Jane Doe"
-      email   = "janedoe@example.com"
-      subject = 'Just saying "hi"'
-      message = "Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus."
+      name    = "Jan Kowalski"
+      email   = "jankowalski@example.com"
+      subject = 'Protest "Zajmijcie się pandemią!"'
+      message = "Hej, chciałbym dołączyć"
 
 
   [params.search]
@@ -213,16 +213,21 @@ paginate = 5
         url = "onas/"
 
       [[languages.pl.menu.main]]
-        name = "Dołącz!"
+        name = "Postulaty"
         weight = 2
+        url = "postulaty/"
+
+      [[languages.pl.menu.main]]
+        name = "Dołącz!"
+        weight = 3
         url = "zapisy/"
 
       [[languages.pl.menu.main]]
         name = "Posty"
-        weight = 3
+        weight = 4
         url = "posty/"
       
       [[languages.pl.menu.main]]
         name = "Kontakt"
-        weight = 4
+        weight = 5
         url = "kontakt/"
