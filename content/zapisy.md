@@ -6,7 +6,5 @@ author = "Zajmijcie się pandemią!"
 +++
 
 Dołącz do protestu z nami! Codziennie stoimy pod siedzibą PiS na [adres].
+{{< contact-form >}}
 
-{{ partial "terminy"}}
-
-{{ partial "kontakt"}}
