@@ -2,10 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 description: ""
 date: {{ .Date }}
-lastmod: {{ .Date }}
-cover: ""
-coverAlt: ""
-toc: false
-tags: []
+katex: true
+katexExtensions: [ mchem, copy-tex ]
 draft: true
 ---

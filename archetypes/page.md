@@ -2,10 +2,10 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 description: ""
 date: {{ .Date }}
-lastmod: {{ .Date }}
 cover: ""
 coverAlt: ""
-toc: false
-tags: []
+sitemapExclude: true
+noindex: true
+disableTitleSeparator: false
 draft: true
 ---
