@@ -19,23 +19,11 @@ Jeśli chcesz, możesz też podejść do nas i napisać na naszym transparencie,
 Na miejscu będziemy miały płyn do dezynfekcji oraz rękawiczki, ale jeśli macie swoje, prosimy o zabranie.
 
 Nasze postulaty:
-
-1) NOWY PROJEKT USTAWY O PLANOWANIU RODZINY: \
-Zgłoszenie ponownej nowelizacji ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąż w zakresie art. 4a ust. 1 pkt. 2.
-Zgodnie z art. 190 Konstytucji orzeczenia TK mają moc powszechnie obowiązującą i są ostateczne, dlatego apelujemy o złożenie nowego projektu ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąż w zakresie art. 4a ust. 1 pkt. 2, przywracający możliwość przeprowadzenia aborcji z przyczyn embriopatologicznych.
-
-2) WSTRZYMANIE DYSKUSJI ŚWIATOPOGLĄDOWYCH W CZASIE PANDEMII COVID-19: \
-po nowelizacji ustawy o planowaniu rodziny i uchyleniu wyroku TK, postulujemy o wstrzymanie dyskusji światopoglądowych przez parlament na 60 dni po zakończeniu stanu epidemii w Polsce.
-
-3) NIEZALEŻNA RADA DO STRATEGII WALKI Z PANDEMIĄ: \
-Powołanie niezależnej rady przy Prezesie Rady Ministrów skupiającej niezależnych przedstawicieli środowisk medycznych i zainteresowanych, złożonych przykładowo z członków wytypowanych przez Naczelną Radę Lekarską, Naczelną Radę Pielęgniarek i Położnych, Naczelną Radę Adwokacką, Związek Nauczycielstwa Polskiego i ciała im podobne. Rada pełniłaby koordynacyjno-konsultacyjną rolę w tworzeniu strategii walki z pandemią COVID-19.
-
-4) EDUKACJA SEKSUALNA I ANTYDYSKRYMINACYJNA: \
-Zapewnienie dostępu do rzetelnej edukacji seksualnej i antydyskryminacyjnej, zgodnej ze standardami międzynarodowymi we wszystkich placówkach edukacji.
-
-5) WSPARCIE DLA NIEPEŁNOSPRAWNYCH: \
-Stworzenie kompleksowego programu wsparcia dla niepełnosprawnych wraz ze wzrostem świadczeń opiekuńczych.
-
+<ul class="posts" style="list-style:none; line-height: 1.5rem; text-align: center;">
+<a class="btn" href="/postulaty/" title="Postulaty">
+    <p>POSTULATY</p>
+</a>
+</ul>
 Czyli w skrócie:
 
 #zajmijciesiepandemia #prawowyboruzostawciekobietom

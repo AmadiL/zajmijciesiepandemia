@@ -115,13 +115,13 @@ other = "Posty zawierające"
 # Search form
 
 [searchLabel]
-other = "Search"
+other = "Wyszukiwarka"
 
 [searchAriaButton]
-other = "Run search."
+other = "Szukaj."
 
 [searchInput]
-other = "Search field. Accepts from {{ .minLength }} to {{ .maxLength }} characters."
+other = "Brak Danych. Accepts from {{ .minLength }} to {{ .maxLength }} characters."
 
 
 # Search results page
@@ -130,19 +130,19 @@ other = "Search field. Accepts from {{ .minLength }} to {{ .maxLength }} charact
 other = "No pages found."
 
 [searchResultsFor]
-other = "Results for"
+other = "Wyniki dla"
 
 [searchOnePageFound]
-other = "One page found"
+other = "Znaleziono jedną stronę"
 
 [searchPagesFound]
-other = "pages found"
+other = "stron"
 
 [searchAwaitingSearch]
-other = "Awaiting search."
+other = "Szukam."
 
 [searchTooMany]
-other = "Too many pages found. Please try to repeat the search using another term."
+other = "Zbyt dużo wyników. Please try to repeat the search using another term."
 
 
 # Translations
