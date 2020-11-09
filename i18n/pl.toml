@@ -1,16 +1,16 @@
 # Header & Footer
 
 [ariaMainMenu]
-other = "Main menu."
+other = "Strona główna."
 
 [changeAccent]
-other = "Change accent color."
+other = "Zmień kolor akcentu."
 
 [changeMode]
-other = "Change to light/dark mode."
+other = "Jasny/Ciemny motyw."
 
 [noscript]
-other = "Unable to execute JavaScript. Some features were disabled."
+other = "Brak JavaScript."
 
 
 # Pages
@@ -94,22 +94,22 @@ other = "Przejdź do ostatniej strony."
 # List (meta tags)
 
 [page]
-other = "page"
+other = "strona"
 
 [of]
-other = "of"
+other = "z"
 
 [posts]
-other = "Posts"
+other = "Posty"
 
 [postsUnderTag]
-other = "Posts under the \"{{ .Title }}\" tag."
+other = "Posty oragowane \"{{ .Title }}\"."
 
 [postsUnderCategory]
-other = "Posts under the \"{{ .Title }}\" category."
+other = "Posty w kategorii \"{{ .Title }}\"."
 
 [pageContaining]
-other = "Page containing"
+other = "Posty zawierające"
 
 
 # Search form

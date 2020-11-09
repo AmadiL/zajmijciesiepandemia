@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "pl"
 DefaultContentLanguage = "pl"
-title = "Zajmijcie się pandemią!"
+title = "⚡️ Zajmijcie się pandemią! ⚡️"
 theme = "color-your-world"
 
 copyright = "Copyright © 2008–2020, Steve Francia and the Hugo Authors;\n All rights reserved."
@@ -73,7 +73,7 @@ paginate = 5
     
     # Autocomplete [on/off] and min character length for message
     autoComplete      = false # Default is false
-    messageMinLength  = 140   # Default is 140
+    messageMinLength  = 50   # Default is 140
     
     # Subject
     # You can set a single value below (and it will cease to be a dropdown),
@@ -210,7 +210,7 @@ paginate = 5
       [[languages.pl.menu.main]]
         name = "O nas"
         weight = 1
-        url = "onas/"
+        url = "/"
 
       [[languages.pl.menu.main]]
         name = "Postulaty"

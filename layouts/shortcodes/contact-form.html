@@ -5,7 +5,7 @@
 {{ end }}
 
 
-<form id="contact" {{ with .Site.Params.Contact.formspreeFormId }}action="https://formspree.io/{{ . }}"{{ end }} method="post" accept-charset="utf-8" netlify>
+<form id="contact" method="post" accept-charset="utf-8" netlify>
   <label class="label-form">{{ T "name" }}
     <input aria-label="{{ T "name" }}" class="input-text" type="text" name="name" minlength="3" {{ with .Site.Params.Contact.Placeholder.name }}placeholder="{{ . }}"{{ end }} autocomplete="{{ $autoComplete }}" required>
   </label>
