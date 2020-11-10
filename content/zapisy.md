@@ -5,7 +5,9 @@ aliases = ["dołącz", "join"]
 author = "Zajmijcie się pandemią!"
 +++
 
-### Codziennie stoimy pod siedzibą PiS na Targu Drzewnym.
+### Codziennie od 23.10, w godzinach 10-20 stoimy pod biurem poselskim PIS-u w Gdańsku z naszym transparentem i postulatami ✌
+Zgłaszajcie się do przyjścia na konkretne godziny, wpiszemy Was w harmonogram. Zachęcamy do przyjścia nawet na godzinkę albo dwie!  
+We wspólnocie siła! 💪
 
 <iframe width="100%" height="500" src="https://maps.google.com/maps?q=Targ%20Drzewny%2C%20Gda%C5%84sk&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
