@@ -1,10 +1,16 @@
 ---
 author: "zajmijciesiepandemia.pl"
 title: "Jak PiS Trybunał przejmował"
-date: "2020-11-09"
+date: "2020-11-04"
 description: "O przejęciu TK"
-tags: ["aborcja"]
+tags: ["sądownictwo", "trybunał"]
 ---
+
+Dla tych, którzy jeszcze nie mieli okazji się zapoznać 😉  
+Z radością prezentujemy pierwszy tekst napisany przez Bartłomieja Wodyńskiego, któremu bardzo dziękujemy. ❤️  
+Zachęcamy do lektury!
+
+## Dawno, dawno temu...
 
 Cała historia z TK zaczyna się od błędu PO. Sejm poprzedniej kadencji, rok 2015, decyduje się na wybór 5 nowych sędziów TK - w tym 2 nadprogramowych. Tłumaczono to chęcią uniknięcia sytuacji, w której to kadencje utraciłyby ciągłość i Sejm nowej kadencji miałby nie zdążyć z wyborem nowych sędziów. Prezydent Duda nie przyjmuje od żadnego przyrzeczenia.  
 Tutaj wkracza machina PiS:  

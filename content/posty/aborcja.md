@@ -1,10 +1,17 @@
 ---
 author: "zajmijciesiepandemia.pl"
-title: "Aborcja"
-date: "2020-11-09"
+title: "Zakaz aborcji to nie rozwiązanie"
+date: "2020-11-06"
 description: "O skuteczności zakazu aborcji"
 tags: ["aborcja"]
 ---
+
+Nawiązując do pomysłu prezydenta Dudy o ustawie dotyczącej aborcji, chcielibyśmy się podzielić filmem autorstwa Orestesa Kowalskiego z kanału [Everyday Hero](https://www.youtube.com/channel/UCScI9-djrBPkIZ5UyUzaQwQ). Dla wielbicieli tekstu nasz kolega przygotował opracowanie znajdujące się pod filmem, wraz z odnośnikami do źródeł.  
+Zapraszamy do lektury, a autorowi dziękujemy! ⚡️⚡️⚡️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ntv0fEUknY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Opracowanie
 
 Na początku warto zaznaczyć, że ludzie na całym świecie (tym bardziej w Polsce) różnie postrzegają aborcję. Dla jednych jest to zwykły zabieg medyczny, dla innych morderstwo człowieka, pomiędzy tymi stronami jest całe spektrum pośrednich poglądów. Z pozoru nie da się pogodzić ludzi o tak skrajnie różnych poglądach. Mimo wszystko każdy z nich zgodziłby się z tezą, że im mniej aborcji, tym lepiej. Katolicy, konserwatyści z oczywistych powodów. Dla kobiety stojącej po drugiej stronie aborcja też nie jest “wygodna”, wiąże się ona ze stresem, poświęceniem czasu i pieniędzy, ryzykiem powikłań. Co za tym idzie obie strony zgadzają się, że aborcji powinno być jak najmniej. Niestety obie strony przedstawiają zgoła odmienne wizje radzenia sobie z wyżej przedstawionym problemem. W tym tekście postaram się zarysować różne sposoby zmniejszania ilości aborcji, wraz z omówieniem ich skuteczności.
 
