@@ -1,4 +1,4 @@
-![Logo](/img/logo.jpg)
+![Logo](/img/logo.png)
 
 ### Codziennie od 23.10, w godzinach 10-20 stoimy pod biurem poselskim PIS-u w Gdańsku z naszym transparentem i postulatami.
 
@@ -11,7 +11,7 @@ W poniższym linku znajduje się harmonogram z rozpisanymi zmianami na każdy dz
 <ul class="posts" style="list-style:none; line-height: 1.5rem; text-align: center;">
 <!-- <li> -->
 <a class="btn" style="list-style:none; line-height: 1.5rem;" href="/zapisy/" title="Zapisy1">
-<p>⚡️ DOŁĄCZ ⚡️</p>
+<p>⚡️ DOŁĄCZ DO NAS ⚡️</p>
 </a>
 <!-- </li> -->
 <!-- <li> -->
