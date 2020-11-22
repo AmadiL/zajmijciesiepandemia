@@ -1,0 +1,6 @@
+<button class="btn" onclick="toggle('{{ .Get 0 }}')" style="list-style:none; line-height: 1.5rem; text-align: center; font-weight: 700; font-size: 1rem; padding: 0.5rem">
+{{ .Get 0 }}
+</button>
+<div class="toggling-content" id="{{ .Get 0 }}" style="display: none;">
+{{ .Inner }}
+</div>
