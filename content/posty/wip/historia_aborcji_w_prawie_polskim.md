@@ -1,7 +1,7 @@
 ---
 author: "Weronika Gołąbek, studentka prawa Uniwersytetu Gdańskiego"
 title: "Stuletnia Historia Aborcji w Prawie Polskim"
-date: "2020-11-20"
+date: "2020-11-30"
 description: "Stuletnia Historia Aborcji w Prawie Polskim"
 tags: ["aborcja"]
 ---
