@@ -5,7 +5,7 @@ aliases = ["dołącz", "join"]
 author = "Zajmijcie się pandemią!"
 +++
 
-### Codziennie od 23.10, w godzinach 10-20 stoimy pod biurem poselskim PIS-u w Gdańsku z naszym transparentem i postulatami ✌
+### Codziennie od 23.10, w godzinach 12-20 stoimy pod biurem poselskim PIS-u w Gdańsku z naszym transparentem i postulatami ✌
 Zgłaszajcie się do przyjścia na konkretne godziny, wpiszemy Was w harmonogram. Zachęcamy do przyjścia nawet na godzinkę albo dwie!  
 We wspólnocie siła! 💪
 
