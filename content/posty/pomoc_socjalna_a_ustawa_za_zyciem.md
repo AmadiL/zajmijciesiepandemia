@@ -1,6 +1,6 @@
 ---
 author: "Konrad Bruski, Weronika Gołąbek"
-title: 'Pomoc socjalna, a ustawa "Za życiem"'
+title: 'Pomoc socjalna a ustawa "Za życiem"'
 date: "2020-12-06"
 description: 'Pomoc socjalna, a ustawa "Za życiem"'
 tags: ["niepełnosprawność"]
