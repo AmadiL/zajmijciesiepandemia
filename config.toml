@@ -223,11 +223,16 @@ paginate = 5
         url = "zapisy/"
 
       [[languages.pl.menu.main]]
-        name = "Posty"
+        name = "⚡️ Piosenka ⚡️"
         weight = 4
+        url = "piosenka/"
+
+      [[languages.pl.menu.main]]
+        name = "Posty"
+        weight = 5
         url = "posty/"
       
       [[languages.pl.menu.main]]
         name = "Kontakt"
-        weight = 5
+        weight = 6
         url = "kontakt/"
